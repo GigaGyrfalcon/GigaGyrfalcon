@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Giga Songulashvili originaly from Georgia.
+- 🌱 I’m currently learning Blockchain and Cryptocurrencies using GoLaNG.
+- 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/songulashvili/) 
